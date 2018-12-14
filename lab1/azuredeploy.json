@@ -15,7 +15,6 @@
             "defaultValue": "Standard_LRS",
             "allowedValues": [
                 "Standard_LRS",
-                "Premium_LRS",
                 "Standard_RAGRS"
             ],
             "metadata": {
